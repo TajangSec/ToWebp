@@ -2,11 +2,7 @@
 
 [中文](#中文)   [English](#English)
 
-[TOC]
-
-
-
-###### 中文：
+#### 中文：
 
 本项目用于将指定目录内的所有 jpg、png图像转换为webp格式，包含子目录里的文件，并且保持文件夹结构。
 
@@ -22,7 +18,7 @@ ep：one.jpg、one.png ===>one.webp、one.webp (1).webp
 
 关于cwebp的Windows可执行文件编译：https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/building.md
 
-###### English：
+#### English：
 
 This project is used to convert all jpg and png images within a specified directory to webp format, including files in subdirectories, while maintaining the folder structure.
 
