@@ -12,7 +12,7 @@
 
 ep：one.jpg、one.png ===>one.webp、one.webp (1).webp
 
-<h4 style="color:red">注意：请填写输入目录、输出目录、cwebp.exe的绝对路径</h4>
+**>注意：请填写输入目录、输出目录、cwebp.exe的绝对路径**
 
 本项目已经包含cwebp.exe
 
@@ -28,7 +28,7 @@ If two files in the same folder have the same name after conversion, a "(1)" suf
 
 ep: one.jpg, one.png ===> one.webp, one.webp (1).webp
 
-<h4 style="color:red">Note: Please fill in the input directory, output directory, and the absolute path of cwebp.exe</h4>
+**Note: Please fill in the input directory, output directory, and the absolute path of cwebp.exe**
 
 This project already includes cwebp.exe.
 
