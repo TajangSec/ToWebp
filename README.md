@@ -17,6 +17,7 @@ ep：one.jpg、one.png ===>one.webp、one.webp (1).webp
 本项目已经包含cwebp.exe
 
 关于cwebp的Windows可执行文件编译：https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/building.md
+你也可以下载Google官方版本：https://developers.google.com/speed/webp/download?hl=zh-cn
 
 ### English：
 
@@ -33,3 +34,4 @@ ep: one.jpg, one.png ===> one.webp, one.webp (1).webp
 This project already includes cwebp.exe.
 
 Regarding the compilation of the Windows executable for cwebp: https://chromium.googlesource.com/webm/libwebp/+/HEAD/doc/building.md
+You can also download the official Google version: https://developers.google.com/speed/webp/download?hl=en
